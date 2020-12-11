@@ -1,7 +1,7 @@
 # My Golf page
 I am a golfer on the Univerity of Missouri's Golf team
 
-I started golfing when I was three with my dad.
+I started golfing when I was three years old with my dad.
 
 My *favorite* memory golfing is breaking 70 for the frist time with my grandpa.
 
